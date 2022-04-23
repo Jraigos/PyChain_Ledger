@@ -17,3 +17,5 @@ Also it is stored in the ledger:
 
 Theres is also a validation button to verify that every block hash is equal to the previous hash in all the blockchain. When it is valid, it returns a True statement.
 The application includes a slider bar to set the grade of difficulty between 1 and 5 zeros to the left of the hash to calculate the winning hash required to mine each block.
+
+![Winning Hash](Winning_hash.png)
