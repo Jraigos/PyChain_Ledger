@@ -5,7 +5,7 @@ It is runned using the Streamlit web interface.
 
 The PyChain ledger creates blocks with the "Add Block" button  that contains the information of the sender, receiver and the amount to transfer, and record it in a ledger.
 
-![PyChain](Pychain.png)
+![PyChain](PyChain.png)
 
 Also it is stored in the ledger: 
 - Creator id 
