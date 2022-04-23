@@ -3,7 +3,10 @@
 This blockchain-based ledger allows different entities to conduct financial transactions to transfer a virtual asset like digital money between senders and receivers, and to verify the integrity of the data in the ledger.
 It is runned using the Streamlit web interface.
 
-The PyChain ledger creates blocks with the "Add Block" button  that contains the information of the sender, receiver and the amount to transfer, and record it in a ledger. 
+The PyChain ledger creates blocks with the "Add Block" button  that contains the information of the sender, receiver and the amount to transfer, and record it in a ledger.
+
+![PyChain](Pychain.png)
+
 Also it is stored in the ledger: 
 - Creator id 
 - Previous hash
