@@ -31,3 +31,7 @@ The application includes a slider bar to set the grade of difficulty between 1 a
 The block inspector allows the user to select from a drop dowm menu, any of the blocks that has been created in the blockchain, and it displays the information included in each of them. 
 
 ![Block Inspector](block_inspector.png)
+
+
+https://github.com/Jraigos/PyChain_Ledger/blob/main/PyChain.mov
+
