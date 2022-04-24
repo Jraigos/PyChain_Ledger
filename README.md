@@ -1,4 +1,4 @@
-# PyChain_Ledger
+# The PyChain Ledger
 
 This blockchain-based ledger allows different entities to conduct financial transactions to transfer a virtual asset like digital money between senders and receivers, and to verify the integrity of the data in the ledger.
 It is runned using the Streamlit web interface.
@@ -31,7 +31,3 @@ The application includes a slider bar to set the grade of difficulty between 1 a
 The block inspector allows the user to select from a drop dowm menu, any of the blocks that has been created in the blockchain, and it displays the information included in each of them. 
 
 ![Block Inspector](block_inspector.png)
-
-The next video shows how the PyChain ledger works for a better understanding of its functionality: 
-
-![video](PyChain.mov)
