@@ -54,5 +54,11 @@ The block inspector allows the user to select from a drop dowm menu, any of the 
 
 ![Block inspector](block_inspector.png)
 
+<br>
 
+For a better understanding of the PyChain ledger functionality, the next video shows how it works: 
+
+<br>
+
+https://github.com/Jraigos/PyChain_Ledger/blob/main/PyChain.mov
 
