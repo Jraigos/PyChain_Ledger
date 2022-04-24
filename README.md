@@ -33,5 +33,5 @@ The block inspector allows the user to select from a drop dowm menu, any of the 
 ![Block Inspector](block_inspector.png)
 
 
-https://github.com/Jraigos/PyChain_Ledger/blob/main/PyChain.mov
+
 
