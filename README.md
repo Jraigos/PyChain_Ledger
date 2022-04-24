@@ -24,13 +24,13 @@ Theres is also a validation button to verify that every block hash is equal to t
 
 The application includes a slider bar to set the grade of difficulty between 1 and 5 zeros to the left of the hash to calculate the winning hash required to mine each block.
 
-![slider bar](difficulty.png)
+
 
 ![Winning Hash](Winning_hash.png)
 
 The block inspector allows the user to select from a drop dowm menu, any of the blocks that has been created in the blockchain, and it displays the information included in each of them. 
 
-![Block Inspector](block_inspector.png)
+
 
 
 
